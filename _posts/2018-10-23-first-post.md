@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Courtney Lee, Launches a Jekyll-based website"
+title: "Courtney Lee Launches a Jekyll-based website"
 date: 2018-10-23
 ---
 
