@@ -3,7 +3,10 @@ layout: default
 title: Curriculum Vitae
 ---
 
-	<div class="cv">
+## Courtney Lee
+_courtney [at] courtneylee {dot} net_
+	
+<div class="cv">
 		<a href="#" class="download" title="Download CV as PDF">Download CV</a>			
 					<h1>Courtney Lee</h1>
 					<address>
