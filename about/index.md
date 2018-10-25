@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-## About Courtney Lee
+## About
 
 Courtney Lee is currently a researcher based in San Francisco. 
 Prior to that, Courtney evaluated and analyzed program impacts at ScholarMatch, 
