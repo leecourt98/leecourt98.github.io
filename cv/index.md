@@ -5,6 +5,10 @@ title: Curriculum Vitae
 
 ## Courtney Lee
 _courtney [at] courtneylee {dot} net_
+
+### Education
+BS in Mathematics, minor in Statistics \\
+University of California, Los Angeles
 	
 ### Selected Publications
 
@@ -12,7 +16,7 @@ _courtney [at] courtneylee {dot} net_
 
 At PPIC, Courtney researches K-12 and higher education policy, with an emphasis on examining outcomes in California.
 
-##### Blog Pieces
+**Blog Pieces**
 
 Standardized Testing and College Eligibility. (with Jacob Jackson). October 11, 2018.
 
@@ -36,7 +40,7 @@ The Rising Cost of College: Student Fees. (with Jacob Jackson) March 14, 2018.
 
 Prioritizing Computer Science Education in California Schools. (with Niu Gao) March 6, 2018.
 
-##### Research Support
+**Research Support**
 
 Jackson, J., Warren, P. (2018). California’s Tuition Policy for Higher Education: the Impact of Tuition Increases on Affordability, Access, and Quality
 
