@@ -5,7 +5,7 @@ title: About
 
 ## About Courtney Lee
 
-<p> Courtney Lee is currently a researcher based in San Francisco. 
+Courtney Lee is currently a researcher based in San Francisco. 
 Prior to that, Courtney evaluated and analyzed program impacts at ScholarMatch, 
 a college access and retention nonprofit in San Francisco. 
 Courtney also worked as an independent data journalist at the Los Angeles Times, 
