@@ -7,8 +7,7 @@ title: Curriculum Vitae
 _courtney [at] courtneylee {dot} net_
 
 ### Education
-BS in Mathematics, minor in Statistics \\
-University of California, Los Angeles
+BS in Mathematics, minor in Statistics from University of California, Los Angeles
 	
 ### Selected Publications
 
