@@ -8,5 +8,5 @@ The print version contains a huge GIS map of Long Beach's bicycle infrastructure
 
 See for yourself! Right click for the larger version.
 
-<p> <img src="https://raw.githubusercontent.com/leecourt98/leecourt98.github.io/master/_posts/longbeach_print_visuals_r.jpg" alt="" style="width:200px;height:200px">
+<p> <img src="https://raw.githubusercontent.com/leecourt98/leecourt98.github.io/master/_posts/longbeach_print_visuals_r.jpg" alt="" style="width:600px;height:600px">
 
