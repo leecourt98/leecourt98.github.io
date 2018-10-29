@@ -3,7 +3,8 @@ layout: default
 title: Curriculum Vitae
 ---
 
-## Courtney Lee
+## Curriculum Vitae
+Courtney Lee
 _courtney [at] courtneylee {dot} net_
 
 ### Education
