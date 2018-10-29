@@ -49,7 +49,7 @@ Jackson, J., Warren, P. (2018). California’s Tuition Policy for Higher Educati
 At the Los Angeles Times, Courtney researched a few Los Angeles County cities’ efforts in using data to inform bicycle infrastructure implementation.
 
 Long Beach Touts a Steady Growth in Cycling. May 19, 2015.
-[http://www.latimes.com/local/california/la-me-california-commute-20150519-story.html](http://www.latimes.com/local/california/la-me-california-commute-20150519-story.html)
+[http://www.latimes.com/local/california/la-me-california-commute-20150519-story.html](http://www.latimes.com/local/california/la-me-california-commute-20150519-story.html) + [Print Edition Graphics](http://courtneylee.net/blog/2018/10/28/longbeach-visuals)
 
 LA City’s Expanding Bikeways. December 9, 2014.
 Produced with Armand Emamdjomeh and Doug Smith.
