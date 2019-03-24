@@ -12,11 +12,12 @@ _courtney [at] courtneylee {dot} net_
 BS in Mathematics, minor in Statistics from University of California, Los Angeles
 
 ### Work Experience
-* Research Associate, Public Policy Institute of California 
-* Evaluation, Operations, and Research Associate, ScholarMatch
+Research Associate, Public Policy Institute of California 
+
+Evaluation, Operations, and Research Associate, ScholarMatch
 
 ### Published Work
-For a full list, see [here](link tbd). 
+For a full list, see [here](https://leecourt98.github.io/published work/). 
 
 #### Public Policy Institute of California
 
