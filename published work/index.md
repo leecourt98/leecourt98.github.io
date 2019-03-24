@@ -1,3 +1,8 @@
+---
+layout: default
+title: Published Work
+---
+
 #### Public Policy Institute of California
 
 At PPIC, Courtney researches K-12 and higher education policy, with an emphasis on examining outcomes in California.
