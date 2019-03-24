@@ -13,9 +13,9 @@ BS in Mathematics, minor in Statistics from University of California, Los Angele
 
 ### Work Experience
 - Research Associate, Public Policy Institute of California 
-  -- January 2018 - present  
-- Evaluation, Operations, and Research Associate, ScholarMatch
-  -- July 2016 - December 2017
+  January 2018 - present  
+- Evaluation, Operations, and Research Associate, ScholarMatch 
+  July 2016 - December 2017
 
 ### Published Work
 For a full list, see [here](https://leecourt98.github.io/published-work/). 
