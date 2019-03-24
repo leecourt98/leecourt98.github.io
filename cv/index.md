@@ -17,7 +17,13 @@ BS in Mathematics, minor in Statistics from University of California, Los Angele
 
 At PPIC, Courtney researches K-12 and higher education policy, with an emphasis on examining outcomes in California.
 
+**Publications** 
+
+Goss, J. **Lee, C.**, Gao, N. (2019). [California's Digital Divide](https://www.ppic.org/publication/californias-digital-divide/)
+
 **Blog Pieces**
+
+[State-level Strategies to Reduce Student Debt](https://www.ppic.org/blog/state-level-strategies-to-reduce-student-debt/). March 19, 2019. 
 
 [Standardized Testing and College Eligibility](http://www.ppic.org/blog/standardized-testing-and-college-eligibility/). (with Jacob Jackson). October 11, 2018.
 
@@ -42,6 +48,8 @@ At PPIC, Courtney researches K-12 and higher education policy, with an emphasis 
 [Prioritizing Computer Science Education in California Schools](http://www.ppic.org/blog/making-computer-science-priority-california-schools/). (with Niu Gao) March 6, 2018.
 
 **Research Support**
+
+Jackson, J., Cook. K. (2018). [Modernizing California's Education Data System](https://www.ppic.org/publication/modernizing-californias-education-data-system/)
 
 Jackson, J., Warren, P. (2018). [California’s Tuition Policy for Higher Education: the Impact of Tuition Increases on Affordability, Access, and Quality](http://www.ppic.org/publication/californias-tuition-policy-for-higher-education-the-impact-of-tuition-increases-on-affordability-access-and-quality/)
 
