@@ -9,7 +9,7 @@ At PPIC, Courtney researches K-12 and higher education policy, with an emphasis 
 
 **Publications** 
 
-Goss, J. **Lee, C.**, Gao, N. (2019). [California's Digital Divide](https://www.ppic.org/publication/californias-digital-divide/)
+Goss, J., **Lee, C.**, Gao, N. (2019). [California's Digital Divide](https://www.ppic.org/publication/californias-digital-divide/)
 
 **Blog Pieces**
 
