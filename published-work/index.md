@@ -13,6 +13,8 @@ Goss, J., **Lee, C.**, Gao, N. (2019). [California's Digital Divide](https://www
 
 **Blog Pieces**
 
+[How California's Digital Divide Affects Students](https://www.ppic.org/blog/how-californias-digital-divide-affects-students/). (with Justin Goss and Niu Gao). April 25, 2019.
+
 [State-level Strategies to Reduce Student Debt](https://www.ppic.org/blog/state-level-strategies-to-reduce-student-debt/). March 19, 2019. 
 
 [Standardized Testing and College Eligibility](http://www.ppic.org/blog/standardized-testing-and-college-eligibility/). (with Jacob Jackson). October 11, 2018.
