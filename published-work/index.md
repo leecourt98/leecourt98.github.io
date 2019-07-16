@@ -9,9 +9,9 @@ At PPIC, Courtney researches K-12 and higher education policy, with an emphasis 
 
 **Publications** 
 
-Cook, K., Jackson, J., **Lee, C.** (2019). [State Financial Aid in California](https://www.ppic.org/publication/state-financial-aid-in-california/)
+Cook, K., Jackson, J., **Lee, C.** (2019). [State Financial Aid in California](https://www.ppic.org/publication/state-financial-aid-in-california/).
 
-Goss, J., **Lee, C.**, Gao, N. (2019). [California's Digital Divide](https://www.ppic.org/publication/californias-digital-divide/)
+Goss, J., **Lee, C.**, Gao, N. (2019). [California's Digital Divide](https://www.ppic.org/publication/californias-digital-divide/).
 
 **Blog Pieces**
 
@@ -43,11 +43,11 @@ Goss, J., **Lee, C.**, Gao, N. (2019). [California's Digital Divide](https://www
 
 **Research Support**
 
-Bohn, S., Jackson, J., McConville, S. (2019). [Career Pathways and Economic Mobility at California's Community Colleges](https://www.ppic.org/publication/career-pathways-and-economic-mobility-at-californias-community-colleges/)
+Bohn, S., Jackson, J., McConville, S. (2019). [Career Pathways and Economic Mobility at California's Community Colleges](https://www.ppic.org/publication/career-pathways-and-economic-mobility-at-californias-community-colleges/).
 
-Jackson, J., Cook. K. (2018). [Modernizing California's Education Data System](https://www.ppic.org/publication/modernizing-californias-education-data-system/)
+Jackson, J., Cook. K. (2018). [Modernizing California's Education Data System](https://www.ppic.org/publication/modernizing-californias-education-data-system/).
 
-Jackson, J., Warren, P. (2018). [California’s Tuition Policy for Higher Education: the Impact of Tuition Increases on Affordability, Access, and Quality](http://www.ppic.org/publication/californias-tuition-policy-for-higher-education-the-impact-of-tuition-increases-on-affordability-access-and-quality/)
+Jackson, J., Warren, P. (2018). [California’s Tuition Policy for Higher Education: the Impact of Tuition Increases on Affordability, Access, and Quality](http://www.ppic.org/publication/californias-tuition-policy-for-higher-education-the-impact-of-tuition-increases-on-affordability-access-and-quality/).
 
 ---
 #### Los Angeles Times
