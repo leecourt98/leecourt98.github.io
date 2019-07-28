@@ -29,17 +29,17 @@ Goss, J., **Lee, C.**, Gao, N. (2019). [California's Digital Divide](https://www
 
 [Encouraging Full-Time Enrollment to Boost College Graduation Rates](http://www.ppic.org/blog/encouraging-full-time-enrollment-to-boost-college-graduation-rates/). June 15, 2018.
 
-[Guaranteeing Transfer Admission to the University of California](http://www.ppic.org/blog/guaranteeing-transfer-admission-to-the-university-of-california/). (with Jacob Jackson) May 18, 2018.
+[Guaranteeing Transfer Admission to the University of California](http://www.ppic.org/blog/guaranteeing-transfer-admission-to-the-university-of-california/). (with Jacob Jackson). May 18, 2018.
 
-[Out-of-State Students and Tuition at UC](http://www.ppic.org/blog/out-of-state-students-and-tuition-at-uc/). (with Jacob Jackson) May 7, 2018.
+[Out-of-State Students and Tuition at UC](http://www.ppic.org/blog/out-of-state-students-and-tuition-at-uc/). (with Jacob Jackson). May 7, 2018.
 
-[Federal Spending Bill Boosts Education Funding in California](http://www.ppic.org/blog/federal-spending-bill-boosts-education-funding-in-california/). (with Niu Gao and Patrick Murphy) May 2, 2018.
+[Federal Spending Bill Boosts Education Funding in California](http://www.ppic.org/blog/federal-spending-bill-boosts-education-funding-in-california/). (with Niu Gao and Patrick Murphy). May 2, 2018.
 
-[California’s K–12 Educational Progress: Good News and Bad News](http://www.ppic.org/blog/californias-k-12-educational-progress-good-news-bad-news/). (with Niu Gao) April 18, 2018.
+[California’s K–12 Educational Progress: Good News and Bad News](http://www.ppic.org/blog/californias-k-12-educational-progress-good-news-bad-news/). (with Niu Gao). April 18, 2018.
 
 [The Rising Cost of College: Student Fees](http://www.ppic.org/blog/rising-cost-college-student-fees/). (with Jacob Jackson) March 14, 2018.
 
-[Prioritizing Computer Science Education in California Schools](http://www.ppic.org/blog/making-computer-science-priority-california-schools/). (with Niu Gao) March 6, 2018.
+[Prioritizing Computer Science Education in California Schools](http://www.ppic.org/blog/making-computer-science-priority-california-schools/). (with Niu Gao). March 6, 2018.
 
 **Research Support**
 
