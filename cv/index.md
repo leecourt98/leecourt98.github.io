@@ -28,8 +28,8 @@ At PPIC, Courtney researches K-12 and higher education policy, with an emphasis 
 
 **Selected Blog Pieces**
 
+- [Proposed Changes in Admission Requirements at CSU](https://www.ppic.org/blog/proposed-changes-in-admission-requirements-at-csu/). August 2, 2019.  
 - [State-level Strategies to Reduce Student Debt](https://www.ppic.org/blog/state-level-strategies-to-reduce-student-debt/). March 19, 2019. 
-- [Standardized Testing and College Eligibility](http://www.ppic.org/blog/standardized-testing-and-college-eligibility/). (with Jacob Jackson). October 11, 2018.
 - [Year-Round Support for Low-Income Students](http://www.ppic.org/blog/year-round-support-for-low-income-students/). August 23, 2018.
 - [Encouraging Full-Time Enrollment to Boost College Graduation Rates](http://www.ppic.org/blog/encouraging-full-time-enrollment-to-boost-college-graduation-rates/). June 15, 2018.
 - [The Rising Cost of College: Student Fees](http://www.ppic.org/blog/rising-cost-college-student-fees/). (with Jacob Jackson) March 14, 2018.
