@@ -15,6 +15,8 @@ Goss, J., **Lee, C.**, Gao, N. (2019). [California's Digital Divide](https://www
 
 **Blog Pieces**
 
+[Proposed Changes in Admission Requirements at CSU](https://www.ppic.org/blog/proposed-changes-in-admission-requirements-at-csu/). August 2, 2019.
+
 [How California's Digital Divide Affects Students](https://www.ppic.org/blog/how-californias-digital-divide-affects-students/). (with Justin Goss and Niu Gao). April 25, 2019.
 
 [State-level Strategies to Reduce Student Debt](https://www.ppic.org/blog/state-level-strategies-to-reduce-student-debt/). March 19, 2019. 
@@ -37,7 +39,7 @@ Goss, J., **Lee, C.**, Gao, N. (2019). [California's Digital Divide](https://www
 
 [California’s K–12 Educational Progress: Good News and Bad News](http://www.ppic.org/blog/californias-k-12-educational-progress-good-news-bad-news/). (with Niu Gao). April 18, 2018.
 
-[The Rising Cost of College: Student Fees](http://www.ppic.org/blog/rising-cost-college-student-fees/). (with Jacob Jackson) March 14, 2018.
+[The Rising Cost of College: Student Fees](http://www.ppic.org/blog/rising-cost-college-student-fees/). (with Jacob Jackson). March 14, 2018.
 
 [Prioritizing Computer Science Education in California Schools](http://www.ppic.org/blog/making-computer-science-priority-california-schools/). (with Niu Gao). March 6, 2018.
 
