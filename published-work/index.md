@@ -15,6 +15,8 @@ Goss, J., **Lee, C.**, Gao, N. (2019). [California's Digital Divide](https://www
 
 **Blog Pieces**
 
+[Should Applying for College Financial Aid be a High School Requirement?](https://www.ppic.org/blog/should-applying-for-college-financial-aid-be-a-high-school-requirement/). September 19, 2019.
+
 [Proposed Changes in Admission Requirements at CSU](https://www.ppic.org/blog/proposed-changes-in-admission-requirements-at-csu/). August 2, 2019.
 
 [How California's Digital Divide Affects Students](https://www.ppic.org/blog/how-californias-digital-divide-affects-students/). (with Justin Goss and Niu Gao). April 25, 2019.
