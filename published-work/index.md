@@ -47,6 +47,8 @@ Goss, J., **Lee, C.**, Gao, N. (2019). [California's Digital Divide](https://www
 
 **Research Support**
 
+Gao, N., LaFortune, J. (2019). [Common Core State Standards in California: Evaluating Local Implementation and Student Outcomes](https://www.ppic.org/publication/common-core-state-standards-in-california-evaluating-local-implementation-and-student-outcomes/). 
+
 Bohn, S., Jackson, J., McConville, S. (2019). [Career Pathways and Economic Mobility at California's Community Colleges](https://www.ppic.org/publication/career-pathways-and-economic-mobility-at-californias-community-colleges/).
 
 Jackson, J., Cook. K. (2018). [Modernizing California's Education Data System](https://www.ppic.org/publication/modernizing-californias-education-data-system/).
