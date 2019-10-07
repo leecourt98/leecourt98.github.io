@@ -9,6 +9,8 @@ At PPIC, Courtney researches K-12 and higher education policy, with an emphasis 
 
 **Publications** 
 
+Johnson, H., Jackson, J. **Lee, C.** (2019). [Higher Education in California: Making College Affordable](https://www.ppic.org/publication/higher-education-in-california-making-college-affordable/).  
+
 Cook, K., Jackson, J., **Lee, C.** (2019). [State Financial Aid in California](https://www.ppic.org/publication/state-financial-aid-in-california/).
 
 Goss, J., **Lee, C.**, Gao, N. (2019). [California's Digital Divide](https://www.ppic.org/publication/californias-digital-divide/).
