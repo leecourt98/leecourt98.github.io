@@ -1,3 +1,9 @@
+---
+layout: post
+title: First Conference Talk Slides + Video
+date: 2019-10-30
+---
+
 I presented my first talk at the North American Cartographic Information Society (NACIS), a cartography conference, back in October. 
 There, I presented a quick overview of how I make maps with the statistical language R in my daily practice as a policy researcher. 
 
