@@ -5,7 +5,7 @@ title: Published Work
 
 #### Public Policy Institute of California
 
-At PPIC, Courtney researches K-12 and higher education policy, with an emphasis on examining outcomes in California.
+At PPIC, Courtney researched K-12 and higher education policy, with an emphasis on examining outcomes in California, in addition to topics in labor economics and demography. 
 
 **Publications** 
 
@@ -16,6 +16,8 @@ Cook, K., Jackson, J., **Lee, C.** (2019). [State Financial Aid in California](h
 Goss, J., **Lee, C.**, Gao, N. (2019). [California's Digital Divide](https://www.ppic.org/publication/californias-digital-divide/).
 
 **Blog Pieces**
+
+[Census Response Lagging during COVID-19](https://www.ppic.org/blog/census-responses-lagging-during-covid-19/). June 11, 2020. (with Eric McGhee, Sarah Bohn, Jennifer Paluch, and Tess Thorman).
 
 [Should Applying for College Financial Aid be a High School Requirement?](https://www.ppic.org/blog/should-applying-for-college-financial-aid-be-a-high-school-requirement/). September 19, 2019.
 
