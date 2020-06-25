@@ -5,7 +5,7 @@ title: Published Work
 
 #### Public Policy Institute of California
 
-At PPIC, Courtney researches K-12 and higher education policy, with an emphasis on examining outcomes in California.
+At PPIC, Courtney researched K-12 and higher education policy, with an emphasis on examining outcomes in California, in addition to topics in labor economics and demography. 
 
 **Publications** 
 
@@ -16,6 +16,8 @@ Cook, K., Jackson, J., **Lee, C.** (2019). [State Financial Aid in California](h
 Goss, J., **Lee, C.**, Gao, N. (2019). [California's Digital Divide](https://www.ppic.org/publication/californias-digital-divide/).
 
 **Blog Pieces**
+
+[Census Response Lagging during COVID-19](https://www.ppic.org/blog/census-responses-lagging-during-covid-19/). June 11, 2020. (with Eric McGhee, Sarah Bohn, Jennifer Paluch, and Tess Thorman).
 
 [Should Applying for College Financial Aid be a High School Requirement?](https://www.ppic.org/blog/should-applying-for-college-financial-aid-be-a-high-school-requirement/). September 19, 2019.
 
@@ -52,13 +54,13 @@ Goss, J., **Lee, C.**, Gao, N. (2019). [California's Digital Divide](https://www
 Gao, N., Johnson, H., Lafortune, J., Dalton, A. (2019) [New Eligibility Rules for the University of California? The Effects of New Science Requirements](https://www.ppic.org/publication/new-eligibility-rules-for-university-of-california-the-effects-of-new-science-requirements/). 
 Contributed archival background research and qualitiative interview support. 
 
-Gao, N., Lafortune, J. (2019). [Common Core State Standards in California: Evaluating Local Implementation and Student Outcomes](https://www.ppic.org/publication/common-core-state-standards-in-california-evaluating-local-implementation-and-student-outcomes/). 
+Gao, N., Lafortune, J. (2019). [Common Core State Standards in California: Evaluating Local Implementation and Student Outcomes](https://www.ppic.org/publication/common-core-state-standards-in-california-evaluating-local-implementation-and-student-outcomes/). Contributed to survey instrument design and case studies on textbook adoption consistency. 
 
-Bohn, S., Jackson, J., McConville, S. (2019). [Career Pathways and Economic Mobility at California's Community Colleges](https://www.ppic.org/publication/career-pathways-and-economic-mobility-at-californias-community-colleges/).
+Bohn, S., Jackson, J., McConville, S. (2019). [Career Pathways and Economic Mobility at California's Community Colleges](https://www.ppic.org/publication/career-pathways-and-economic-mobility-at-californias-community-colleges/). Became familiar with the Census' American Community Survey, definitions of Metropolitan Statistical Areas, as well as federal and state level employment projections. 
 
-Jackson, J., Cook. K. (2018). [Modernizing California's Education Data System](https://www.ppic.org/publication/modernizing-californias-education-data-system/).
+Jackson, J., Cook. K. (2018). [Modernizing California's Education Data System](https://www.ppic.org/publication/modernizing-californias-education-data-system/). Provided background research on statewide longitudinal educational data systems (SLEDS). 
 
-Jackson, J., Warren, P. (2018). [California’s Tuition Policy for Higher Education: the Impact of Tuition Increases on Affordability, Access, and Quality](http://www.ppic.org/publication/californias-tuition-policy-for-higher-education-the-impact-of-tuition-increases-on-affordability-access-and-quality/).
+Jackson, J., Warren, P. (2018). [California’s Tuition Policy for Higher Education: the Impact of Tuition Increases on Affordability, Access, and Quality](http://www.ppic.org/publication/californias-tuition-policy-for-higher-education-the-impact-of-tuition-increases-on-affordability-access-and-quality/). Produced graphics and authored a short section of the paper on campus-based fees and its effects on affordability. 
 
 ---
 #### Los Angeles Times
