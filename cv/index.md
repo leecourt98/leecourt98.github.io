@@ -12,8 +12,9 @@ _courtney [at] courtneylee {dot} net_
 BS in Mathematics, minor in Statistics from University of California, Los Angeles
 
 ### Work Experience
-- Research Associate, Public Policy Institute of California, Jan. 2018 — present
-- Evaluation, Operations, and Research Associate, ScholarMatch, July 2016 — Dec. 2017
+- Quantitative Researcher, UBS  
+- Research Associate, Public Policy Institute of California
+- Evaluation, Operations, and Research Associate, ScholarMatch
 
 ### Published Work
 For a full list, see [here](https://leecourt98.github.io/published-work/). 
@@ -44,5 +45,8 @@ At the Los Angeles Times, Courtney researched a few Los Angeles County cities’
 Produced with Armand Emamdjomeh and Doug Smith.
 [http://graphics.latimes.com/la-city-bikeways/](http://graphics.latimes.com/la-city-bikeways/)
 
+### Conference Presentations 
+ - "California's Career Education Programs and Their Long-Term Wage Outcomes: A Regional Examination." 2020 March 19. Association for Education Finance and Policy. Part of Poster Session I. [Poster pdf](https://github.com/leecourt98/leecourt98.github.io/blob/master/_posts/aefp2020_poster_cl_200309_v2_1.pdf).
+ 
 ### Talks
  - "Mapping Data with R." 2019 October 16. North American Cartographic Information Society. Part of Practical Cartography Day. [Slides](http://courtneylee.net/nacis-2019/); [Video Recording](https://youtu.be/ykkSfnxOkxo).  
