@@ -8,7 +8,7 @@ Extending work constructed for an earlier [paper](https://www.ppic.org/publicati
 career education programs and wage outcomes in California, I produced a poster examining wage outcomes among California's diverse regions. 
 Individual fixed effects regressions are still applied in this extension. 
 
-The abstract is below, and a pdf of the poster may be found [here](https://github.com/leecourt98/leecourt98.github.io/blob/master/_posts/aefp2020_poster_cl_200309_v2_1.pdf). 
+The abstract is beow, and a pdf of the poster may be found [here](https://github.com/leecourt98/leecourt98.github.io/blob/master/_posts/aefp2020_poster_cl_200309_v2_1.pdf). 
 
 --- 
 Abstract: 
