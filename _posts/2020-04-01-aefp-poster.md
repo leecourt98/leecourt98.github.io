@@ -5,7 +5,7 @@ date: 2020-04-01
 ---
 
 Extending work constructed for an earlier [paper](https://www.ppic.org/publication/career-pathways-and-economic-mobility-at-californias-community-colleges/) on 
-career education programs and wage outcomes in California, I produced a poster examining wage outcomes among California's diverse regions. 
+career education programs and wage outcomes in California, I produced a poster examining wage outcomes among the state's diverse regions. 
 Individual fixed effects regressions are still applied in this extension. 
 
 The abstract is beow, and a pdf of the poster may be found [here](https://github.com/leecourt98/leecourt98.github.io/blob/master/_posts/aefp2020_poster_cl_200309_v2_1.pdf). 
