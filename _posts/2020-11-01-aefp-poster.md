@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conference Poster: California's Career Education Programs and Long-Term Wage Outcomes, by Region 
+title: Conference Poster -- California's Career Education Programs and Long-Term Wage Outcomes, by Region 
 date: 2020-04-01
 ---
 
